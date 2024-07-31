@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Praveen kumar
+- 👀 I’m interested in Mern stack 
+- 🌱 I have completed in Mern stack development ...
+- 💞️ I’m looking to collaborate on Full Stack Developer
+- 📫 reach me praveemern@gmail.com
